@@ -6,3 +6,4 @@
 🎓 Técnica em Informática  
 ☁️ Estudando IA e Dados  
 ⚙️ Interessada em Infraestrutura e DevOps
+![snake gif](https://github.com/w1jeje/w1jeje/blob/output/github-contribution-grid-snake.svg)
