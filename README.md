@@ -6,4 +6,4 @@
 🎓 Técnica em Informática  
 ☁️ Estudando IA e Dados  
 ⚙️ Interesse em Infraestrutura e DevOps
-![snake animation](https://github.com/w1jeje/w1jeje/blob/output/snake-dark.svg?raw=true)
+![snake animation](https://raw.githubusercontent.com/w1jeje/w1jeje/output/snake-dark.svg")
