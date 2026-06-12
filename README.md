@@ -2,7 +2,7 @@
   <img src="Art.gif" width="800">
 </p>
 
-## Olá, eu sou a Jéssica 火
+## Olá, eu sou a Jéssica 
 🎓 Técnica em Informática  
 ☁️ Estudando IA e Dados  
 ⚙️ Interesse em Infraestrutura e DevOps
