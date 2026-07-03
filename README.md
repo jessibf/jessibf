@@ -5,4 +5,4 @@
 ## Olá, eu sou a Jéssica 
 🎓 Técnica em Informática   
 ⚙️ Interesse em Infraestrutura e DevOps
-![snake animation](https://raw.githubusercontent.com/w1jeje/w1jeje/output/snake-dark.svg?v=2)
+![snake animation](https://raw.githubusercontent.com/jessibf/jessibf/output/snake-dark.svg?v=2)
